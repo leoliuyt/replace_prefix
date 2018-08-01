@@ -22,8 +22,3 @@ DMLogin.h
 DMLogin.m
 - (void)dm_login;
 ```
-
-```
-test
-
-```
